@@ -107,4 +107,4 @@ L3: unknown instruction pcx
 When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
 ## Author
-[GitHub](https://github.com/ekrika)
+* Ekrika Kenewenemor [GitHub](https://github.com/ekrika)
